@@ -1,5 +1,5 @@
 💫 About Me:
-🔭 I’m currently working on AI/ML development and computer vision system.<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with fine-tuning AI on perfecting MCP for 3D editing program (Blender, SolidWorks)<br>🌱 I’m currently learning implementation of local agentic LLM for private usage<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on AI/ML development and computer vision system specifically using YOLO.<br>👯 I’m looking to collaborate on IoT projects. <br>🤝 I’m looking for help with fine-tuning AI on perfecting MCP for 3D editing program (Blender, SolidWorks). <br>🌱 I’m currently learning implementation of local agentic LLM for private usage. <br>💬 Ask me just about anything! <br>⚡ Fun fact: Did you know the QWERTY keyboard layout was designed to slow down typists to prevent mechanical jams on early typewriters. 
 
 🌐 Socials:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)
