@@ -1,4 +1,4 @@
-💫 About Me:
+<h1>💫 About Me:</h1><br/>
 🔭 I’m currently working on AI/ML development and computer vision system specifically using YOLO.<br>👯 I’m looking to collaborate on IoT projects. <br>🤝 I’m looking for help with fine-tuning AI on perfecting MCP for 3D editing program (Blender, SolidWorks). <br>🌱 I’m currently learning implementation of local agentic LLM for private usage. <br>💬 Ask me just about anything! <br>⚡ Fun fact: Did you know the QWERTY keyboard layout was designed to slow down typists to prevent mechanical jams on early typewriters. 
 
 🌐 Socials:<br/>
